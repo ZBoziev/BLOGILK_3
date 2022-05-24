@@ -12,3 +12,19 @@ main {
     margin: 0 auto;
     width: 712px;
 }
+.container {
+    border-radius: 32px;
+}
+.info{
+    width: 653.4px;
+
+}
+.name{
+    width: 193px;
+}
+.date{
+    width: 95px;
+}
+.text{
+    width: 653px;
+}
