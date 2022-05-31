@@ -12,8 +12,8 @@ main {
     margin: 0 auto;
     width: 712px;
 }
-.container {
-    border-radius: 32px;
+.avatar {
+    border-radius: 300px;
 }
 .info{
     width: 653.4px;
