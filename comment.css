@@ -8,19 +8,26 @@ body {
     font-family: 'Roboto', sans-serif;
     margin: 0;
 }
-main {
-    margin: 0 auto;
+.review{
     width: 712px;
+    height: 134px;
+}
+main {
+ 
 }
 .avatar {
-    border-radius: 300px;
+    border-radius: 32px;
+    width: 47.67px;
+    height: 48px;
 }
 .info{
     width: 653.4px;
 
 }
 .name{
-    width: 193px;
+    width: 139px;
+    margin-top: 3px;
+    size: 14px;
 }
 .date{
     width: 95px;
